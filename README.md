@@ -1,1 +1,2 @@
-# android-jokenpo
+# Jokenpô com Android/Java
+Basicamente, é um aplicativo simples onde o usuário poderá escolher uma das três opções, pedra, papel ou tesoura - clicando nas figuras abaixo no App. Também, é mostrado um placar e uma mensagem relativas ao resultado de cada turno. Logo abaixo, existe um botão que resetará todo o aplicativo. Para instalar, basta dar clone no projeto, gerar um apk com Android Studio e emular. 
